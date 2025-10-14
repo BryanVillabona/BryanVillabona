@@ -101,7 +101,7 @@ Soy un desarrollador enfocado en crear soluciones eficientes y escalables. Me en
 </div>
 
 <div align="center">
-  <img src="https://github.com/BryanVillabona/BryanVillabona/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/BryanVillabona/BryanVillabona/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <p align="center">

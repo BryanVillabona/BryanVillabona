@@ -8,7 +8,7 @@
 
 <div align="center">
   
-**💻 Desarrollador de Software | 🎓 Estudiante de Ingeniería de Sistemas | 🚀 Creador de Soluciones Innovadoras**
+**💻 Desarrollador Full-Stack | 🛠️ Ingeniero de Sistemas y Soporte | 🚀 Creador de Soluciones Tecnológicas**
 
 Soy un desarrollador enfocado en crear soluciones eficientes y escalables. Me encanta transformar ideas en código y estoy en una búsqueda constante de aprendizaje para evolucionar con el ecosistema tecnológico.
 

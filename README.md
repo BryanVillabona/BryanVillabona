@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=¡Hola!+Soy+Bryan+Villabona;Desarrollador+de+Software;Apasionado+por+la+Tecnología;Bienvenido+a+mi+GitHub" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=¡Hello+World!,+soy+Bryan+Villabona;Desarrollador+Junior+Full-Stack;Apasionado+por+la+Tecnología;Bienvenido+a+mi+GitHub" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -116,8 +116,14 @@ Soy un desarrollador enfocado en crear soluciones eficientes y escalables. Me en
     <a href="https://github.com/BryanVillabona" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
+    <a href="https://www.linkedin.com/in/ing-bryan-villabona0812/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
     <a href="mailto:bvillabona13@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://wa.me/573175819813" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
     </a>
 </p>
 <p><strong>Abierto a oportunidades de colaboración y nuevos desafíos profesionales.</strong></p>
